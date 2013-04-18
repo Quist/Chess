@@ -9,8 +9,8 @@ import sjakk.Position;
  * @author Joakim
  */
 public class King extends Piece {
-    private final String imagePathWhite = "src/images/wking.png";
-    private final String imagePathBlack = "src/images/bking.png";
+    private final String imagePathWhite = "images/wking.png";
+    private final String imagePathBlack = "images/bking.png";
     
     private boolean moved;
     

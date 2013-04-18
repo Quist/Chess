@@ -13,8 +13,8 @@ import sjakk.Position;
  * @author Joakim
  */
 public class Bishop extends Piece {
-    private final String imagePathWhite = "src/images/wbishop.png";
-    private final String imagePathBlack = "src/images/bbishop.png";
+    private final String imagePathWhite = "images/wbishop.png";
+    private final String imagePathBlack = "images/bbishop.png";
     
     public Bishop(Player color, Position position,Chessboard board) {
         super(color, position, board);

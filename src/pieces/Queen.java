@@ -16,8 +16,8 @@ import sjakk.Position;
  */
 public class Queen extends Piece {
 
-    private final String imagePathWhite = "src/images/wqueen.png";
-    private final String imagePathBlack = "src/images/bqueen.png";
+    private final String imagePathWhite = "images/wqueen.png";
+    private final String imagePathBlack = "images/bqueen.png";
 
     public Queen(Player color, Position pos, Chessboard board) {
         super(color, pos, board);

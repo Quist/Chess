@@ -13,8 +13,8 @@ import sjakk.Position;
  * @author Joakim
  */
 public class Knight extends Piece {
-    private final String imagePathWhite = "src/images/wknight.png";
-    private final String imagePathBlack = "src/images/bknight.png";
+    private final String imagePathWhite = "images/wknight.png";
+    private final String imagePathBlack = "images/bknight.png";
 
     public Knight(Player color, Position pos, Chessboard board) {
         super(color, pos, board);

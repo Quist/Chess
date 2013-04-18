@@ -11,8 +11,8 @@ import sjakk.Position;
  */
 public class Pawn extends Piece {
 
-    private final String imagePathWhite = "src/images/wpawn.png";
-    private final String imagePathBlack = "src/images/bpawn.png";
+    private final String imagePathWhite = "images/wpawn.png";
+    private final String imagePathBlack = "images/bpawn.png";
 
     public Pawn(Player color, Position pos, Chessboard board) {
         super(color, pos, board);

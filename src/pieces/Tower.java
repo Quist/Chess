@@ -11,8 +11,8 @@ import sjakk.Position;
  */
 public class Tower extends Piece {
 
-    private final String imagePathWhite = "src/images/wrook.png";
-    private final String imagePathBlack = "src/images/brook.png";
+    private final String imagePathWhite = "images/wrook.png";
+    private final String imagePathBlack = "images/brook.png";
 
     private boolean moved;
     
