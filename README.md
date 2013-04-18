@@ -1,4 +1,4 @@
 Chess
 =====
 
-Simple java chess GUI with a even simpler AI
+Simple java chess GUI with a even more simple AI.
